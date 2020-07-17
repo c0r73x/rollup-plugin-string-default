@@ -20,5 +20,4 @@ function string(opts = {}) {
     }
   };
 }
-
-exports.string = string;
+module.exports = string;
