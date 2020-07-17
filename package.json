@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-string",
+  "name": "rollup-plugin-string-default",
   "version": "3.0.0",
   "description": "Converts text files to modules",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrySound/rollup-plugin-string.git"
+    "url": "git+https://github.com/sudo-carson/rollup-plugin-string-default.git"
   },
   "keywords": [
     "rollup-plugin",
@@ -30,7 +30,7 @@
   "author": "Bogdan Chadkin <trysound@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TrySound/rollup-plugin-string/issues"
+    "url": "https://github.com/sudo-carson/rollup-plugin-string-default/issues"
   },
-  "homepage": "https://github.com/TrySound/rollup-plugin-string"
+  "homepage": "https://github.com/sudo-carson/rollup-plugin-string-default"
 }
