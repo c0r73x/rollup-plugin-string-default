@@ -1,4 +1,4 @@
-# rollup-plugin-string [![Build Status](https://travis-ci.org/TrySound/rollup-plugin-string.svg)](https://travis-ci.org/TrySound/rollup-plugin-string)
+# rollup-plugin-string-default [![Build Status](https://travis-ci.org/TrySound/rollup-plugin-string.svg)](https://travis-ci.org/TrySound/rollup-plugin-string)
 
 Converts text files to modules:
 
@@ -10,14 +10,14 @@ console.log(`Template for render: ${tpl}`);
 ## Installation
 
 ```sh
-npm i rollup-plugin-string -D
+npm i rollup-plugin-string-default -D
 ```
 
 ## Usage
 
 ```js
 import { rollup } from "rollup";
-import { string } from "rollup-plugin-string";
+import string from "rollup-plugin-string";
 
 rollup({
   entry: "main.js",
